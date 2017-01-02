@@ -18,7 +18,7 @@ Examples:
 	print(appendSum(2, {}, "Five -> ")) -- Throws an error:
 	bad argument #2 to 'appendSum' (number expected; got table)
 	
-Variables can also have multiple correct types
+Variables can also have multiple correct types:
 
     local charge = require("charge")
 
